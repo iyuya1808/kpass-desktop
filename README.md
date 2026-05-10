@@ -1,2 +1,3 @@
-# kpass-desktop
-KPass Desktop 配布
+# KPass Desktop Releases
+
+This repository hosts public release artifacts for KPass Desktop.
