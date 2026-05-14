@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "notes": "KPass Desktop v1.0.0 (build 32)",
-  "pub_date": "2026-05-14T09:31:54Z",
+  "notes": "KPass Desktop v1.0.0 (build 33)",
+  "pub_date": "2026-05-14T09:40:51Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOTBMU0oxNVN1T3dHU0dYOVpmLytWcGI4a3VEVTNlbUFoc1NHUzJFN1F2WWhmbE00RUdVMldFUnZERFNOdXVUME5JMHlHOHNKejAzSVA4MHVCQlhaUjZyTUY1Q1l6U3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NzM4NzgxCWZpbGU6S1Bhc3MgRGVza3RvcC5hcHAudGFyLmd6CkVRWURwc2NieFhmMUJzUDB6N3dPSHE2ajZUeklvdHp1TlJHeW01VVpveHpVTGVDOUJ1VlpnNk0rQ2t2TEFoUTBMU3gvaE5LVlpQOXZINGFMYi9NSkFBPT0K",
-      "url": "https://github.com/iyuya1808/kpass-desktop/releases/download/desktop-mac-v1.0.0-build32/kpass-desktop-mac-v1.0.0-build32.app.tar.gz"
+      "url": "https://github.com/iyuya1808/kpass-desktop/releases/download/desktop-mac-v1.0.0-build33/kpass-desktop-mac-v1.0.0-build33.app.tar.gz"
     }
   }
 }
