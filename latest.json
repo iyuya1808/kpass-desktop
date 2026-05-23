@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "notes": "KPass Desktop v1.0.0 (build 30)",
-  "pub_date": "2026-05-23T18:19:11Z",
+  "notes": "KPass Desktop v1.0.0 (build 31)",
+  "pub_date": "2026-05-23T18:28:15Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://github.com/iyuya1808/kpass-desktop/releases/download/desktop-mac-v1.0.0-build30/kpass-desktop-mac-v1.0.0-build30.app.tar.gz"
+      "url": "https://github.com/iyuya1808/kpass-desktop/releases/download/desktop-mac-v1.0.0-build31/kpass-desktop-mac-v1.0.0-build31.app.tar.gz"
     }
   }
 }
