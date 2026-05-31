@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2",
-  "notes": "KPass Desktop v1.0.2 (build 45)",
-  "pub_date": "2026-05-31T15:48:31Z",
+  "version": "1.0.3",
+  "notes": "KPass Desktop v1.0.3 (build 46)",
+  "pub_date": "2026-05-31T16:15:06Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOTBMU0oxNVN1TzRFUW1VSWl0WloxY3JhR2w5WlBwTzBqSk1ETGZ2TTcyelVENWxhUmtEM2pzWmhYT1VZd3hhT3BtcGhqeXhKbzZCdDZneFpTcU1PUEFOT2hmQVJYalFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjQyNDY5CWZpbGU6S1Bhc3MgRGVza3RvcC5hcHAudGFyLmd6CitucWtRVDViSTYreXdiREJQc0xwVDl0Y1MrK1Q1TWhwbCtzQWlMTDlvUUl4WDJPV0gyZDFjMnY5ZlBGK0tVSkV2dHZFL0tRQ3pPa1orMkpHdGtrS0FBPT0K",
-      "url": "https://github.com/iyuya1808/kpass-desktop/releases/download/desktop-mac-v1.0.2-build45/kpass-desktop-mac-v1.0.2-build45.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTOTBMU0oxNVN1Ty91aWZDeTR5ZTIvWHhzN0tlRGRxWXRpZDg4WjR1VndWcFBlWHJkTnZiYVI2VjdYZkhZRk9Kb2pob2IvL1dqbmpDMkZmeUFtbXdrS05mc2ViM0I2Wmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjQ0MDYxCWZpbGU6S1Bhc3MgRGVza3RvcC5hcHAudGFyLmd6CjR2YWN6d1FWV1lvNnZQS3VLcWo1YWd6U0tGK3hOd1dpZWFldXIzNUNsLzJYbjk5dlVTRmU5N2FwaHl6WlhIMlVhMHVXQXNVa0VKT1poRW9tWkZVZEF3PT0K",
+      "url": "https://github.com/iyuya1808/kpass-desktop/releases/download/desktop-mac-v1.0.3-build46/kpass-desktop-mac-v1.0.3-build46.app.tar.gz"
     }
   }
 }
