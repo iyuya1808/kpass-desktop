@@ -1,13 +1,22 @@
-# KPass Desktop Releases
+# KPass Desktop
 
-KPass Desktop の公開配布リポジトリです。
+KPass Desktop のダウンロードページです。
 
-## Download
+## ダウンロード
 
-- macOS: [kpass-desktop-mac-latest.dmg](https://github.com/iyuya1808/kpass-desktop/releases/latest/download/kpass-desktop-mac-latest.dmg)
+- [macOS 版をダウンロード](https://github.com/iyuya1808/kpass-desktop/releases/latest/download/kpass-desktop-mac-latest.dmg)
 
-## Notes
+## インストール
 
-- ユーザー向けダウンロード導線は `releases/latest/download/...` の固定 URL を使います
-- build ごとのタグは内部の配布管理と updater 用アセットのために作られます
-- 古い build の release/tag は定期的に整理します
+1. ダウンロードした DMG ファイルを開きます。
+2. `KPass Desktop` を `Applications` フォルダへ移動します。
+3. `Applications` から `KPass Desktop` を起動します。
+
+## アップデート
+
+アプリ内の設定画面から最新版を確認できます。
+
+## 注意事項
+
+KPass Desktop は慶應義塾大学および Canvas LMS 開発元とは無関係の非公式ツールです。
+利用は自己責任で行ってください。
